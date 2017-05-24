@@ -1,4 +1,4 @@
-# Learn Redux
+# React + Redux + React Router
 
 A simple React, Redux, and React Router implementation.
 
